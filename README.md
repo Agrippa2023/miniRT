@@ -37,7 +37,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YourUsername/miniRT.git
+   git clone https://github.com/Agrippa2023/miniRT.git
    cd miniRT
    ```
 2. Build the project:
